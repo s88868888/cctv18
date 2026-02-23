@@ -10,16 +10,11 @@
 - ⚡ 参与开发维护的项目：[SukiSU Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra), [ReSukiSU](https://github.com/ReSukiSU/ReSukiSU), [Baseband Guard](https://github.com/vc-teahouse/Baseband-guard)等
 - 📫 我的酷安ID：@cctv18_2
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cctv18&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=cctv18&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&hide_border=true&exclude_forks=true" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=cctv18&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=cctv18&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&hide_border=true&exclude_forks=true" alt="languages graph" />
+</div>
 
 ##
 ### 我的个人作品：（更多代码开发中）
