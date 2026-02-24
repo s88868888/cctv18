@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Update timestamp in README
         run: |
@@ -40,16 +42,13 @@ jobs:
             if [[ "$LAST_AUTHOR" == "github-actions[bot]" && "$LAST_MSG" == *"$TARGET_MSG"* ]]; then
               echo "Found previous bot commit. Amending..."
               git commit --amend --no-edit
-              git push --force
+              git push --force-with-lease
               echo "Successfully amended the last commit."
             else
               echo "Last commit was by human or different. Creating new commit..."
               git commit -m "$TARGET_MSG"
               git push
               echo "Successfully pushed new commit."
-              git commit -m "docs: auto update readme timestamp [skip ci]"
-              git push
-              echo "Successfully pushed updates."
             fi
           else
             echo "No changes to commit."
