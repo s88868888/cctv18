@@ -28,14 +28,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8650&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1772067885&show_owner=true" alt="oppo_oplus_realme_sm8650 stats" />
-
-  <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8750&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1772067885&show_owner=true" alt="oppo_oplus_realme_sm8750 stats" />
+  [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8650&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1772067885&show_owner=true" alt="oppo_oplus_realme_sm8650 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8650) [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8750&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1772067885&show_owner=true" alt="oppo_oplus_realme_sm8750 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8750)
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8850&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1772067885&show_owner=true" alt="oppo_oplus_realme_sm8850 stats" />
+  [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8850&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1772067885&show_owner=true" alt="oppo_oplus_realme_sm8850 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8850)
 
 </div>
 
@@ -48,3 +46,7 @@
   
   <img height="500" src="https://raw.githubusercontent.com/cctv18/cctv18/refs/heads/main/support_zfb.jpg" />
 </div>
+
+##
+### 访客统计（26.02.26——）
+![:reindex-ot](https://count.getloli.com/get/@:cctv18)
