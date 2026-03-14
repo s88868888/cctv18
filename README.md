@@ -48,5 +48,5 @@
 </div>
 
 ##
-### 访客统计（26.02.26——）
+### 主页+项目访客统计（26.02.26——）
 ![:reindex-ot](https://count.getloli.com/get/@:cctv18)
